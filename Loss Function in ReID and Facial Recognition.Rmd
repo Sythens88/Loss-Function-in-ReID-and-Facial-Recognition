@@ -1,6 +1,5 @@
 ---
 title: "Loss Function in ReID and Facial Recognition"
-author: "Yujia Zhu"
 output: pdf_document
 ---
 
