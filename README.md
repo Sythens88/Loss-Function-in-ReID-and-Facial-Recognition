@@ -85,7 +85,6 @@ The loss function is called arcface loss is because after getting the dot produc
 
 The decision boudary of classification loss function is listed in the following table (assume $b_j=0$).
 
-\pagebreak
 
 |  Loss Function   |  Decision Boundary  |
 |  :----  | :----:  |
