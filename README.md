@@ -1,6 +1,6 @@
 # Loss-Function-in-ReID-and-Facial-Recognition
 
-<font size=12>**To see the article with normally printed latex formula, please see the pdf document! I do not want to change the latex formula one by one.**</font>
+## To see the article with normally printed latex formula, please see the pdf document! I do not want to change the latex formula one by one.
 
 ReID aims at matching or retrieving objects with the same ID from different cameras, while facial recognition aims at matching a human face from a digital image or a video frame against a database of faces. Two tasks are very similar to each other.
 
